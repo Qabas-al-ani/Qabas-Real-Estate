@@ -4,10 +4,10 @@
   </div>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/Qabas-landing.png" alt="Qabas Real Estate landing page" width="49%" />
   <img src="./assets/Qabas-properties.png" alt="Qabas Real Estate property page" width="49%" />
-</p>
+</p> -->
 
 A modern luxury real estate experience built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS 4**, **Motion** for subtle premium animations .
 
