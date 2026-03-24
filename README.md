@@ -1,6 +1,5 @@
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 10px;">
-    <img src="./app/icon.png" alt="Qabas Logo" height="40" />
     <h1 style="margin: 0; display: inline;">Qabas Real Estate</h1>
   </div>
 </div>
@@ -18,10 +17,7 @@ Qabas Real Estate is a polished front-end property platform designed to showcase
 
 ## Web Vitals
 
-<p align="center">
-  <img src="./assets/gtmetrix.png" alt="Qabas Real Estate GTmetrix results" width="49%" />
-  <img src="./assets/page-speed-insite.png" alt="Qabas Real Estate PageSpeed Insights results" width="49%" />
-</p>
+
 
 It achieved **full scores across key testing categories**, including **performance, structure, accessibility, best practices, and SEO**, demonstrating that the site was built not only to look luxurious, but also to perform at an exceptional standard.
 
