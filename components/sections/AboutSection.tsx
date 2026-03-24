@@ -10,7 +10,7 @@ export function AboutSection() {
 						<div className='absolute inset-0 border border-gold/30 translate-x-4 translate-y-4' />
 						<div className='relative h-full w-full overflow-hidden border border-white/10'>
 							<Image
-								src='/Qabas-color.png'
+								src='/qabas-color.png'
 								alt='Agent Portrait'
 								fill
 								sizes='(min-width: 1280px) 584px, (min-width: 1024px) calc((100vw - 112px) / 2), 448px'
